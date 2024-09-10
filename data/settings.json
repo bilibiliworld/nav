@@ -2,11 +2,11 @@
   "favicon": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/favicon.ico",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "null",
   "showGithub": false,
   "title": "萝莉王的后花园",
   "description": "众骑士归位",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "keywords": "导航",
   "theme": "Side",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
@@ -15,7 +15,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/1311951.webp",
+      "src": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/background.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -26,7 +26,7 @@
   "simThemeAutoplay": false,
   "sideThemeImages": [
     {
-      "src": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/1311951.webp",
+      "src": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/background.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -37,7 +37,7 @@
   "shortcutThemeShowWeather": false,
   "shortcutThemeImages": [
     {
-      "src": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/1311951.webp",
+      "src": "https://jsd.onmicrosoft.cn/gh/bilibiliworld/picgo@main/pic/background.jpg",
       "url": "",
       "width": null,
       "height": null
